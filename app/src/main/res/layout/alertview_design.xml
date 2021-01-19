@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="325dp"
+    android:layout_height="75dp"
+    android:background="@color/alert_color"
+    app:layout_constraintCircleRadius="8dp">
+
+    <LinearLayout
+        android:id="@+id/linearlayout"
+        android:layout_width="325dp"
+        android:layout_height="70dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tvAlertText"
+            style="@style/NameText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="25dp"
+            android:text="Kayıt Başarılı"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/tvAlertIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/check_icon" />
+
+
+    </LinearLayout>
+</LinearLayout>

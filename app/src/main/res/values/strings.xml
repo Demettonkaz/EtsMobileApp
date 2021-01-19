@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EtsMobileApp</string>
+    <string name="page1_header">Kişiler</string>
+    <string name="page2_header">Kişi Ekle</string>
+    <string name="page2_button">Kaydet/Güncelle</string>
+    <string name="person_search">Kişi Ara</string>
+    <string name="birthday">Doğum Tarihi</string>
+    <string name="name">Ad</string>
+    <string name="surname">Soyad</string>
+    <string name="email">Eposta</string>
+    <string name="phone_number">Telefon Numarası</string>
+    <string name="note">Not</string>
+    <string name="choose">Seç</string>
+    <string name="name_error">Ad Yanlış</string>
+    <string name="surname_error">Soyad Yanlış</string>
+    <string name="dateOfBirth_error">Doğum Tarihi Yanlış</string>
+    <string name="email_error">E-posta Adresi Yanlış</string>
+    <string name="phoneNumber_error">Telefon Numarası Yanlış</string>
+
+</resources>

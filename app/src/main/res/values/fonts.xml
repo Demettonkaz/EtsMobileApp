@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+  <style name="Header">
+    <item name="fontFamily">@font/rubikmedium</item>
+    <item name="android:textSize">30sp</item>
+    <item name="android:letterSpacing" tools:targetApi="lollipop">0.01</item>
+  </style>
+
+  <style name="NameText">
+    <item name="fontFamily">@font/rubikmedium</item>
+    <item name="android:textSize">14sp</item>
+    <item name="android:textColor">@color/name_color</item>
+    <item name="android:letterSpacing" tools:targetApi="lollipop">0.01</item>
+  </style>
+
+  <style name="ButtonText">
+    <item name="fontFamily">@font/rubikmedium</item>
+    <item name="android:textSize">16sp</item>
+    <item name="android:textColor">@color/white</item>
+    <item name="color">#8f67e8</item>
+    <item name="android:letterSpacing" tools:targetApi="lollipop">0.01</item>
+  </style>
+
+  <style name="FeatureText">
+    <item name="fontFamily">@font/rubikregular</item>
+    <item name="android:textSize">12sp</item>
+    <item name="android:textColor">@color/feature_color</item>
+    <item name="android:letterSpacing" tools:targetApi="lollipop">0.01</item>
+  </style>
+
+</resources>
